@@ -12,13 +12,11 @@
   <li>CSS</li>
   <li>JavaScript</li>
   </ul>
-  
-  ![code halo](https://user-images.githubusercontent.com/88971985/160398354-f6510982-5418-4894-a432-e9cb6bde4567.png)
-  -------------
+ -------------
 
-![aço](https://user-images.githubusercontent.com/88971985/198893406-b86f90c7-e2f2-4bd8-b503-9c95d024976d.gif)
+![aço](https://user-images.githubusercontent.com/88971985/198893965-3a8fc77c-fbc0-4855-8d5f-7902e684ea94.gif)
   
-  -------------
+-------------
   
   <h3>Esse foi um projeto simples mas feito com muita dedicação por mim ♡( ◡‿◡ )</h3>
 
